@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/word-hunt/static/css/main.654d03a0.css",
-    "main.js": "/word-hunt/static/js/main.e8c1ec4e.js",
+    "main.js": "/word-hunt/static/js/main.9061f0c5.js",
     "static/js/787.28b982b5.chunk.js": "/word-hunt/static/js/787.28b982b5.chunk.js",
     "service-worker.js": "/word-hunt/service-worker.js",
     "index.html": "/word-hunt/index.html",
     "main.654d03a0.css.map": "/word-hunt/static/css/main.654d03a0.css.map",
-    "main.e8c1ec4e.js.map": "/word-hunt/static/js/main.e8c1ec4e.js.map",
+    "main.9061f0c5.js.map": "/word-hunt/static/js/main.9061f0c5.js.map",
     "787.28b982b5.chunk.js.map": "/word-hunt/static/js/787.28b982b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.654d03a0.css",
-    "static/js/main.e8c1ec4e.js"
+    "static/js/main.9061f0c5.js"
   ]
 }
